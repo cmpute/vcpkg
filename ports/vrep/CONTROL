@@ -1,0 +1,4 @@
+Source: vrep
+Version: 3.5.0
+Description: A powerful 3D robot simulator, which features several versatile calculation modules (inverse kinematics, Physics/dynamics, collision detections, minimum distance calculations, path planning, etc.), a distributed control architecture (unlimited number of control scripts, threaded or non threaded), and several extension mechanisms (plug-ins, custom client application, etc.).It offers a multitude of functionalities that can be easily integrated and combined through an exhaustive API and script functionality.
+Build-Depends: qt5-base, lua, qscintilla, boost-core, qt5-serialport
